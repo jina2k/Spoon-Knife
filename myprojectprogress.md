@@ -1,0 +1,1 @@
+The project I'm interested in is probably the RCOS project OED. I would like to organize it so that there is a central repository, OpenEnergyDashboard/OED, and every contributor would fork it and send edits over using pull requests, as was done in the previous semester.
